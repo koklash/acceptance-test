@@ -42,6 +42,7 @@
     - pw: test9
 
 ## tasks
+!write the tests in this project! Don't push anything to TB.everage!
 
 - Test the login
 - Test if you can order something, it should appear on the order page.
