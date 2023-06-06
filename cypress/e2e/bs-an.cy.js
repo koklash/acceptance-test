@@ -35,7 +35,7 @@ describe('Leherkräfte Bild vorhanden', () => {
 });
 
 describe('Suche nach Informatik und schau ob Fachinformatiker/in Anwendungsentwicklung erscheint', () => {
-  it('should click the span and check if the image is visible', () => {
+  it('suche text Fachinformatiker/in Anwendungsentwicklung erscheint', () => {
     // visit the website
     cy.visit('https://bs-an.de/');
 
