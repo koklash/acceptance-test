@@ -15,17 +15,17 @@
 - Clone this project `https://gitlab.tradebyte.org/trainees/projects/tbeverage`
 - Fill copy the .sample.env to .env and fill it
     - example:
-        PHP_APACHE_PORT=8087
-        MYSQL_ROOT_PASSWORD=superduperdankeschoen
-        MYSQL_DATABASE=tbeverage_dev
-        MYSQL_USER=tbeverage_dev
-        MYSQL_PASSWORD=development245
-        PMA_PORT=8089
-        SMTP_USER=AKIAULAF23FVRXH7OJJH
-        SMTP_PASSWORD=BP4/palKJs37HJoqhnzUrJwy/cO/RwjfOqyoJ0cGdOrG
-        ENV_PROD=false
-        TO_MAIL=---yourEmail---@tradebyte.com
-        CC_MAIL=---yourEmail---@tradebyte.com
+        - PHP_APACHE_PORT=8087
+        - MYSQL_ROOT_PASSWORD=superduperdankeschoen
+        - MYSQL_DATABASE=tbeverage_dev
+        - MYSQL_USER=tbeverage_dev
+        - MYSQL_PASSWORD=development245
+        - PMA_PORT=8089
+        - SMTP_USER=AKIAULAF23FVRXH7OJJH
+        - SMTP_PASSWORD=BP4/palKJs37HJoqhnzUrJwy/cO/RwjfOqyoJ0cGdOrG
+        - ENV_PROD=false
+        - TO_MAIL=---yourEmail---@tradebyte.com
+        - CC_MAIL=---yourEmail---@tradebyte.com
 
 - Run the command:
     - `make`
